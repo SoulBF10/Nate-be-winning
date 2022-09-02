@@ -1,0 +1,32 @@
+{
+	"storyName": "Nate Be Winning",
+	"difficulties": "swag",
+	"hideFreeplay": false,
+	"weekBackground": "swag",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Pimpin",
+			"nate",
+			[
+				0,
+				175,
+				115
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Pimpin",
+	"hiddenUntilUnlocked": false
+}

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="beeg.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Beegie Bop0000" x="0" y="0" width="316" height="236" frameX="0" frameY="-6" frameWidth="316" frameHeight="242"/>
+	<SubTexture name="Beegie Bop0001" x="0" y="0" width="316" height="236" frameX="0" frameY="-6" frameWidth="316" frameHeight="242"/>
+	<SubTexture name="Beegie Bop0002" x="326" y="0" width="315" height="237" frameX="0" frameY="-5" frameWidth="316" frameHeight="242"/>
+	<SubTexture name="Beegie Bop0003" x="326" y="0" width="315" height="237" frameX="0" frameY="-5" frameWidth="316" frameHeight="242"/>
+	<SubTexture name="Beegie Bop0004" x="651" y="0" width="309" height="241" frameX="-1" frameY="0" frameWidth="316" frameHeight="242"/>
+	<SubTexture name="Beegie Bop0005" x="651" y="0" width="309" height="241" frameX="-1" frameY="0" frameWidth="316" frameHeight="242"/>
+	<SubTexture name="Beegie Bop0006" x="651" y="0" width="309" height="241" frameX="-1" frameY="0" frameWidth="316" frameHeight="242"/>
+	<SubTexture name="Beegie Bop0007" x="651" y="0" width="309" height="241" frameX="-1" frameY="0" frameWidth="316" frameHeight="242"/>
+	<SubTexture name="Beegie Bop0008" x="651" y="0" width="309" height="241" frameX="-1" frameY="0" frameWidth="316" frameHeight="242"/>
+	<SubTexture name="Beegie Bop0009" x="651" y="0" width="309" height="241" frameX="-1" frameY="0" frameWidth="316" frameHeight="242"/>
+	<SubTexture name="Beegie Bop0010" x="651" y="0" width="309" height="241" frameX="-1" frameY="0" frameWidth="316" frameHeight="242"/>
+	<SubTexture name="Beegie Bop0011" x="651" y="0" width="309" height="241" frameX="-1" frameY="0" frameWidth="316" frameHeight="242"/>
+	<SubTexture name="Beegie Bop0012" x="651" y="0" width="309" height="241" frameX="-1" frameY="0" frameWidth="316" frameHeight="242"/>
+	<SubTexture name="Beegie Bop0013" x="651" y="0" width="309" height="241" frameX="-1" frameY="0" frameWidth="316" frameHeight="242"/>
+	<SubTexture name="Beegie Bop0014" x="651" y="0" width="309" height="241" frameX="-1" frameY="0" frameWidth="316" frameHeight="242"/>
+</TextureAtlas>
